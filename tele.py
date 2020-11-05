@@ -57,4 +57,4 @@ def delete(message):
 
 
 
-bot.polling()te
+bot.polling()
