@@ -1,7 +1,7 @@
 import telebot
 import token
 
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(token.TOKEN)
 
 
 #Идентификация пользователя
